@@ -23,7 +23,7 @@ public class Student {
 //        this.age = age;
 //    }
 
-    private static class Builder{
+     public static class Builder{
         private String name;
         private int age;
         private String gender;
