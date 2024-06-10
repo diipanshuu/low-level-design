@@ -1,4 +1,4 @@
-package prototype_design_pattern;
+package prototype;
 
 public class Client {
     public static void main(String[] args) {

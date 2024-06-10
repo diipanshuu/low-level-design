@@ -1,4 +1,4 @@
-package builder_design_pattern;
+package builder;
 
 public class Client {
     public static void main(String[] args) {

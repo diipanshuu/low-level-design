@@ -1,9 +1,9 @@
-package factory_design_pattern.ios;
+package factory.ios;
 
-import factory_design_pattern.components_Interfaces.Button;
-import factory_design_pattern.components_Interfaces.DropDown;
-import factory_design_pattern.components_Interfaces.Menu;
-import factory_design_pattern.UIFactory;
+import factory.components_Interfaces.Button;
+import factory.components_Interfaces.DropDown;
+import factory.components_Interfaces.Menu;
+import factory.UIFactory;
 
 public class IOSUIFactory implements UIFactory {
     @Override

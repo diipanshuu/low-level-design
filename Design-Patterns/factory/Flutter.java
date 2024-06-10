@@ -1,4 +1,4 @@
-package factory_design_pattern;
+package factory;
 
 public class Flutter{
     private final SupportedPlatforms supportedPlatforms;

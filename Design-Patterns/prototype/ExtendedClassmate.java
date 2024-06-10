@@ -1,4 +1,4 @@
-package prototype_design_pattern;
+package prototype;
 
 public class ExtendedClassmate extends Classmate {
     private int id;

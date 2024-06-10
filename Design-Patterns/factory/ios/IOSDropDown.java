@@ -1,6 +1,6 @@
-package factory_design_pattern.ios;
+package factory.ios;
 
-import factory_design_pattern.components_Interfaces.DropDown;
+import factory.components_Interfaces.DropDown;
 
 public class IOSDropDown implements DropDown {
 

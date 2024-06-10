@@ -1,10 +1,10 @@
-package factory_design_pattern;
+package factory;
 
-import factory_design_pattern.android.AndroidUIFactory;
-import factory_design_pattern.ios.IOSUIFactory;
+import factory.android.AndroidUIFactory;
+import factory.ios.IOSUIFactory;
 
-import static factory_design_pattern.SupportedPlatforms.ANDROID;
-import static factory_design_pattern.SupportedPlatforms.IOS;
+import static factory.SupportedPlatforms.ANDROID;
+import static factory.SupportedPlatforms.IOS;
 
 public class UIFactoryFactory {
     public static UIFactory getUIFactory(SupportedPlatforms supportedPlatforms) {

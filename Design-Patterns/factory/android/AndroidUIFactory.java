@@ -1,9 +1,9 @@
-package factory_design_pattern.android;
+package factory.android;
 
-import factory_design_pattern.components_Interfaces.Button;
-import factory_design_pattern.components_Interfaces.DropDown;
-import factory_design_pattern.components_Interfaces.Menu;
-import factory_design_pattern.UIFactory;
+import factory.components_Interfaces.Button;
+import factory.components_Interfaces.DropDown;
+import factory.components_Interfaces.Menu;
+import factory.UIFactory;
 
 public class AndroidUIFactory implements UIFactory {
     @Override

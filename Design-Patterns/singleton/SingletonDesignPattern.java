@@ -1,4 +1,4 @@
-package singleton_design_pattern;
+package singleton;
 
 public class SingletonDesignPattern {
 

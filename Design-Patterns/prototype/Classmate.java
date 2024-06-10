@@ -1,4 +1,4 @@
-package prototype_design_pattern;
+package prototype;
 
 class Address{
     private String street;

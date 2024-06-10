@@ -1,8 +1,8 @@
-package factory_design_pattern;
+package factory;
 
-import factory_design_pattern.components_Interfaces.Button;
-import factory_design_pattern.components_Interfaces.DropDown;
-import factory_design_pattern.components_Interfaces.Menu;
+import factory.components_Interfaces.Button;
+import factory.components_Interfaces.DropDown;
+import factory.components_Interfaces.Menu;
 
 public class Client {
     public static void main(String[] args) {

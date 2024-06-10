@@ -1,4 +1,4 @@
-package prototype_design_pattern;
+package prototype;
 
 public interface Prototype <T>{
     T clone();

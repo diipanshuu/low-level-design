@@ -1,6 +1,6 @@
-package factory_design_pattern.android;
+package factory.android;
 
-import factory_design_pattern.components_Interfaces.Button;
+import factory.components_Interfaces.Button;
 
 public class AndroidButton implements Button {
 

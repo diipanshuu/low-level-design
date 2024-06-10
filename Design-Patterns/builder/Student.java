@@ -1,4 +1,4 @@
-package builder_design_pattern;
+package builder;
 
 public class Student {
     private String name;
